@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-width: 320px;
+  max-width: 1920px;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+}
+
+// Prevents SVG sub-elements from being selected
+svg {
+  pointer-events: none;
+}
+
+// Prevents tap outline on mobile
+:focus {
+  outline: none;
+}
+
+::-moz-focus-inner {
+  border: 0;
+}
