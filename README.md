@@ -1,5 +1,5 @@
 # Coconut GL
-A [**three.js**](https://threejs.org) and [**oimo.js**](https://lo-th.github.io/Oimo.js/) sandbox based on Sinan Mutlu's [**vwebpack-simple-starter project**](https://github.com/SinanMtl/webpack-simple-starter)
+A [**three.js**](https://threejs.org) and [**oimo.js**](https://lo-th.github.io/Oimo.js/) sandbox based on Sinan Mutlu's [**webpack-simple-starter project**](https://github.com/SinanMtl/webpack-simple-starter)
 
 ## Getting Started
 First, install the modules that the project needs.
